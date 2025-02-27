@@ -42,7 +42,7 @@ Passionate Software Engineer with a strong focus on game development and full-st
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-kahya-7097a1328/) - Professional updates and networking
 - 📸 [Instagram](https://www.instagram.com/kahya_alii?igshid=djA2Z3RtbWEzdDI3) - Behind the scenes and daily life
-- 💬 Feel free to reach out for collaborations or just a friendly chat!
+- 💬 Feel free to contact me for collaboration or just a friendly chat!
 
 ---
 <p align="center">
