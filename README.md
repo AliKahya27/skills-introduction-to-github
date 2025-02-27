@@ -33,7 +33,6 @@ Passionate Software Engineer with a strong focus on game development and full-st
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliKahya27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliKahya27&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ## 🎵 Currently Vibing To
@@ -41,8 +40,8 @@ Passionate Software Engineer with a strong focus on game development and full-st
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/) - Professional updates and networking
-- 📸 [Instagram](https://www.instagram.com/) - Behind the scenes and daily life
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-kahya-7097a1328/) - Professional updates and networking
+- 📸 [Instagram](https://www.instagram.com/kahya_alii?igsh=djA2Z3RtbWEzdDI3) - Behind the scenes and daily life
 - 💬 Feel free to reach out for collaborations or just a friendly chat!
 
 ---
