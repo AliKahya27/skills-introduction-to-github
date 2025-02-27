@@ -1,49 +1,54 @@
-### 👋 Merhaba, Ben Ali Kahya!
+# Ali Kahya | Software Engineer 👨‍💻
 
-🚀 Yazılım Mühendisi | 🌱 Sürekli öğrenen | 💻 Oyun geliştirme tutkunu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/)
 
-- 🔭 Şu an **Theseus** adında Unreal Engine 5 üzerinde ekibimle bir oyun geliştiriyoruz
-- 🌱 Şu an aktif olarak bir web sitesi projesinin kodunu yazıyorum
-- 👯 İş birliklerine açığım: Oyun geliştirme, masaüstü ve mobil yazılım projeleri
-- 💬 Bana dilediğin konularda soru sor
-- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/) | [Instagram](https://www.instagram.com/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Oyun oynamayı çok sevsem de asıl hayalim kendi oyunumun olması
+## About Me 🚀
+
+> "Code is not just a profession, it's an art form." 
+
+Passionate Software Engineer with a strong focus on game development and full-stack solutions. Currently leading development on **Theseus**, an innovative game project using Unreal Engine 5, while actively contributing to web development initiatives.
+
+- 🎮 Game Developer at **Theseus Project** (Unreal Engine 5)
+- 💻 Full-Stack Developer with expertise in multiple technologies
+- 🌱 Continuously learning and exploring new technologies
+- 🤝 Open to collaborations in game development, desktop, and mobile applications
+- 🎯 Goal: Creating impactful games that leave a lasting impression
+
+## 🛠️ Technical Stack
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Development Tools & Environments
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliKahya27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliKahya27&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+## 🎵 Currently Vibing To
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/AliKahya27)
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/) - Professional updates and networking
+- 📸 [Instagram](https://www.instagram.com/) - Behind the scenes and daily life
+- 💬 Feel free to reach out for collaborations or just a friendly chat!
 
 ---
-
-### 🛠️ Kullandığım Teknolojiler
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-
----
-
-### 🛠️ Kullandığım Araçlar
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white&style=flat)
-
----
-
-### 📈 GitHub İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliKahya27&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKahya27&layout=compact&theme=radical)
-
----
-
-### 🌐 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/)
-
----
-
-### 🎉 Eğlenceli Bir Köşe
-![Spotify Now Playing](https://novatorem.vercel.app/api/spotify)
-
-> 💡 "Kod yazmak sadece bir meslek değil, bir sanattır."
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliKahya27&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
 
 
