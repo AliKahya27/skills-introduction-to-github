@@ -1,7 +1,7 @@
 # Ali Kahya | Software Engineer 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-kahya-7097a1328/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kahya_alii?igshid=djA2Z3RtbWEzdDI3)
 
 ## About Me 🚀
 
@@ -41,13 +41,14 @@ Passionate Software Engineer with a strong focus on game development and full-st
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-kahya-7097a1328/) - Professional updates and networking
-- 📸 [Instagram](https://www.instagram.com/kahya_alii?igsh=djA2Z3RtbWEzdDI3) - Behind the scenes and daily life
+- 📸 [Instagram](https://www.instagram.com/kahya_alii?igshid=djA2Z3RtbWEzdDI3) - Behind the scenes and daily life
 - 💬 Feel free to reach out for collaborations or just a friendly chat!
 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AliKahya27&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
+
 
 
 
