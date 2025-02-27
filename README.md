@@ -37,7 +37,7 @@ Passionate Software Engineer with a strong focus on game development and full-st
 </p>
 
 ## 🎵 Currently Vibing To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/AliKahya27)
+[![Spotify](https://img.shields.io/badge/Mr.%20Rager%20-%20Kid%20Cudi-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5H0YoDsPDi9fObFmJK4MLH)
 
 ## 📫 Let's Connect!
 
@@ -49,6 +49,7 @@ Passionate Software Engineer with a strong focus on game development and full-st
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AliKahya27&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
+
 
 
 
